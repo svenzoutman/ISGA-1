@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    height: 1000px;
+    height: 812px;
     width: 375px;
 }
 
@@ -655,21 +655,21 @@ h5 {
     height: 300px;
     width: 300px;
     position: absolute;
-    top: 400px;
-    left: 20px;
+    top: 375px;
+    left: 35px;
     background-color: red;
+    border-radius: 10px;
+    border: solid 2px; color: black;
 }
 
-.gobackbutton input {
+.gobackbuttontext {
     color: black;
     position: absolute;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 25pt;
-    width: 300px;
-    height: 300px;
     font-weight: bold;
-    background-color: red;
-    border-radius: 10px;
+    top: 115px;
+    left: 88px;
 }
 
 .excusespage {

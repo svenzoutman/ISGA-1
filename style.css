@@ -406,7 +406,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle2 img {
     height: 100px;
     width: 100px;
-    top: 616px;
+    top: 641px;
     position: absolute;
     left: 25px;
 
@@ -414,7 +414,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle2 h3 {
     position: absolute;
-    top: 600px;
+    top: 625px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15pt;
     left: 140px;
@@ -423,7 +423,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle2 h4 {
     position: absolute;
     left: 140px;
-    top: 632px;
+    top: 657px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     color: white;
@@ -432,7 +432,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle2 a {
     position: absolute;
     left: 200px;
-    top: 655px;
+    top: 680px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     text-decoration-line: underline;
@@ -441,7 +441,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle2 p {
     position: absolute;
-    top: 667px;
+    top: 692px;
     left: 140px;
     text-align: left;
     font-family: 'Source Sans Pro', sans-serif;
@@ -461,7 +461,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle3 img {
     height: 100px;
     width: 100px;
-    top: 748px;
+    top: 773px;
     position: absolute;
     left: 25px;
 
@@ -469,7 +469,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle3 h3 {
     position: absolute;
-    top: 730px;
+    top: 755px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15pt;
     left: 140px;
@@ -478,7 +478,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle3 h4 {
     position: absolute;
     left: 140px;
-    top: 760px;
+    top: 785px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     color: white;
@@ -487,7 +487,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle3 a {
     position: absolute;
     left: 200px;
-    top: 783px;
+    top: 808px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     text-decoration-line: underline;
@@ -496,7 +496,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle3 p {
     position: absolute;
-    top: 794px;
+    top: 819px;
     left: 140px;
     text-align: left;
     font-family: 'Source Sans Pro', sans-serif;
@@ -516,7 +516,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle4 img {
     height: 100px;
     width: 100px;
-    top: 878px;
+    top: 903px;
     position: absolute;
     left: 25px;
 
@@ -524,7 +524,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle4 h3 {
     position: absolute;
-    top: 860px;
+    top: 885px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15pt;
     left: 140px;
@@ -533,7 +533,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle4 h4 {
     position: absolute;
     left: 140px;
-    top: 890px;
+    top: 915px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     color: white;
@@ -542,7 +542,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle4 a {
     position: absolute;
     left: 200px;
-    top: 913px;
+    top: 938px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     text-decoration-line: underline;
@@ -551,7 +551,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle4 p {
     position: absolute;
-    top: 925px;
+    top: 950px;
     left: 140px;
     text-align: left;
     font-family: 'Source Sans Pro', sans-serif;

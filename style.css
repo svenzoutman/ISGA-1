@@ -56,7 +56,7 @@ main nav li {
     background-color: red;
     list-style: none;
     margin-top: 11%;
-    border: solid 2px; color: black;
+    border: solid 3px; color: black;
     border-radius: 10px;
 }
 
@@ -270,7 +270,7 @@ input[type=checkbox] + label{
     color: #666666;
 }
 
-input[type=checkbox] + label[for=cafes] {
+input[type=checkbox] + label[for=wifi] {
     display: inline-block;
     margin: 0.2em;
     cursor: pointer;
@@ -279,7 +279,16 @@ input[type=checkbox] + label[for=cafes] {
     margin-left: 15%;
 }
 
-input[type=checkbox] + label[for=parks] {
+input[type=checkbox] + label[for=food] {
+    display: inline-block;
+    margin: 0.2em;
+    cursor: pointer;
+    padding: 0.2em;
+    flex-flow: wrap;
+    margin-left: 16.5%;
+}
+
+input[type=checkbox] + label[for=drinks] {
     display: inline-block;
     margin: 0.2em;
     cursor: pointer;
@@ -288,22 +297,13 @@ input[type=checkbox] + label[for=parks] {
     margin-left: 15%;
 }
 
-input[type=checkbox] + label[for=campus] {
+input[type=checkbox] + label[for=chargers] {
     display: inline-block;
     margin: 0.2em;
     cursor: pointer;
     padding: 0.2em;
     flex-flow: wrap;
-    margin-left: 13%;
-}
-
-input[type=checkbox] + label[for=libraries] {
-    display: inline-block;
-    margin: 0.2em;
-    cursor: pointer;
-    padding: 0.2em;
-    flex-flow: wrap;
-    margin-left: 13%;
+    margin-left: 10%;
 }
 
 input[type=checkbox] {
@@ -580,13 +580,44 @@ article h4 {
     position: absolute;
 }
 
-.locationdetailpage {
+.locationdetailpage1 {
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 14pt;
     position: absolute;
     left: 30px;
-    top: 495px;
+    top: 460px;
+    text-align: center;
+}
+
+.locationdetailpage2 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14pt;
+    position: absolute;
+    left: 20px;
+    top: 475px;
+    text-align: center;
+}
+
+.locationdetailpage3 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14pt;
+    position: absolute;
+    left: 20px;
+    top: 475px;
+    text-align: center;
+}
+
+.locationdetailpage4 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14pt;
+    position: absolute;
+    left: 15px;
+    top: 475px;
+    text-align: center;
 }
 
 table {
@@ -766,8 +797,8 @@ h5 {
 }
 
 .navbarcampus {
-    position: absolute;
     top: 734px;
+    position: fixed;
 }
 
 .studyplaceslocationlinkbusiness {
@@ -805,4 +836,49 @@ h5 {
     margin-top: 280px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 14pt;
+}
+
+img.iconendetailpagina1  {
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 580px;
+    left: 20px;
+
+}
+
+img.iconendetailpagina2  {
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 580px;
+    left: 20px;
+
+}
+
+img.iconendetailpagina3  {
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 580px;
+    left: 20px;
+
+}
+
+img.iconendetailpagina4  {
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 580px;
+    left: 20px;
+
+}
+
+img.hearticonunliked {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 73px;
+    left: 320px;
+
 }

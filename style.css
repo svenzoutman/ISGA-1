@@ -351,7 +351,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle1 img {
     height: 100px;
     width: 100px;
-    top: 485px;
+    top: 510px;
     position: absolute;
     left: 25px;
 
@@ -359,7 +359,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle1 h3 {
     position: absolute;
-    top: 465px;
+    top: 490px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15pt;
     left: 140px;
@@ -368,7 +368,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle1 h4 {
     position: absolute;
     left: 140px;
-    top: 494px;
+    top: 519px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     color: white;
@@ -377,7 +377,7 @@ input[type=checkbox]:checked + label:before {
 .rectangle1 a {
     position: absolute;
     left: 200px;
-    top: 518px;
+    top: 543px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
     text-decoration-line: underline;
@@ -386,7 +386,7 @@ input[type=checkbox]:checked + label:before {
 
 .rectangle1 p {
     position: absolute;
-    top: 530px;
+    top: 555px;
     left: 140px;
     text-align: left;
     font-family: 'Source Sans Pro', sans-serif;
